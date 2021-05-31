@@ -1,0 +1,6 @@
+Data Sources:
+https://cmdlinetips.com/2018/11/how-to-join-two-text-columns-into-a-single-column-in-pandas/
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.mode.html
+https://python-forum.io/thread-20890.html
+https://careerkarma.com/blog/python-typeerror-list-indices-must-be-integers-or-slices-not-str/
+also used multiple stack overflow posts. 
